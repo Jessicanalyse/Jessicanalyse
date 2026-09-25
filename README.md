@@ -83,10 +83,8 @@ Data mining analysis of pricing, brands and promotional strategies.
 ---
 
 ### 📫 Connect With Me
-
-💼 [LinkedIn](YOUR-LINKEDIN-LINK)
-🌐 [Portfolio](YOUR-PORTFOLIO-LINK)
-📧 YOUR-EMAIL
+🌐 [Portfolio]((https://jessicanalyse.github.io/jessicadhabhai-portfolio/))
+📧 jessica.analysesdata@gmail.com 
 
 ---
 
