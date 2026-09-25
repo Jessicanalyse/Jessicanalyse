@@ -80,4 +80,3 @@ Data cleaning, and fraud-pattern analysis on imbalanced transaction data.
 
 ---
 
-*Turning economic questions into data-driven insights.*
