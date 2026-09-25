@@ -1,6 +1,6 @@
 # Hi, I'm Jessica Dhabhai 👋
 
-### MSc Economics | Data Analytics | Financial Analytics
+### MSc Economics | Data Analytics
 
 I'm an MSc Economics student specializing in **Data Analytics**, interested in using data, economics, and technology to solve real-world problems.
 
