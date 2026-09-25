@@ -15,10 +15,8 @@ My interests lie at the intersection of **economics, finance, data analytics, ec
 * Python
 * R
 * SQL
-* VBA
 * Pandas
 * NumPy
-* Scikit-learn
 
 **Analytics & Statistics**
 
@@ -31,14 +29,13 @@ My interests lie at the intersection of **economics, finance, data analytics, ec
 **Visualization & BI**
 
 * Power BI
-* Tableau
 * Matplotlib
 * Seaborn
 
 **Big Data & Tools**
 
 * PySpark
-* Spark SQL
+* SQL
 * Hadoop
 * Git & GitHub
 * Google Colab
@@ -49,7 +46,7 @@ My interests lie at the intersection of **economics, finance, data analytics, ec
 ### 📊 Featured Areas
 
 🏦 **Financial Analytics**
-📈 **Econometrics & Time Series**
+📈 **Econometrics**
 🤖 **Machine Learning**
 🌍 **Economic Data Analysis**
 🗺️ **Geospatial & Population Analytics**
@@ -59,21 +56,14 @@ My interests lie at the intersection of **economics, finance, data analytics, ec
 
 ### 🚀 Featured Projects
 
-🔹 **High-Resolution Population Estimation of India's Million-Plus Cities**
-Machine learning and geospatial data for high-resolution population estimation.
-
-🔹 **Financial Analysis of Indian IT Companies**
-Comparative analysis of profitability, liquidity, and leverage.
-
-🔹 **Time Series Analysis & ARIMA Forecasting**
-Trend, seasonality, moving averages and ARIMA forecasting.
-
 🔹 **Structural Transformation Across Indian States**
 Economic analysis of sectoral composition and income differences.
 
 🔹 **Online Marketplace Pricing Analysis**
 Data mining analysis of pricing, brands and promotional strategies.
 
+🔹 **Credit Card Fraud Detection Using Big Data and Machine Learning** 
+data cleaning, and fraud-pattern analysis on imbalanced transaction data.
 ---
 
 ### 🎓 Education
@@ -83,7 +73,7 @@ Data mining analysis of pricing, brands and promotional strategies.
 ---
 
 ### 📫 Connect With Me
-🌐 [Portfolio]((https://jessicanalyse.github.io/jessicadhabhai-portfolio/))
+🌐 [Portfolio](https://jessicanalyse.github.io/jessicadhabhai-portfolio/)
 📧 jessica.analysesdata@gmail.com 
 
 ---
